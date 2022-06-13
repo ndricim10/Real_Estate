@@ -1,0 +1,140 @@
+export default {
+    properties: [
+        {
+            id: "AL26286",
+            title: "Rent, Apartment 2 + 1, Ali Demi, Tirana.",
+            location: "Ali Demi Tirana",
+            beds: 2,
+            Area: 84,
+            agent: "Albert Sejdini",
+            propertyUrl: "https://crm-cdn.ams3.digitaloceanspaces.com/futurehome/storage/futurehome/2022/June/week2/450x337/179470_2+1_(4).jpg",
+            agentUrl: "https://futurehome.bspvision.com/storage/futurehome/2022/March/week2/825834_WhatsApp_Image_2022-03-10_at_13.02.10.jpeg",
+            type: "Apartment",
+            rooms: 3,
+            rent: true,
+            forSale: false,
+            price: 20
+        },
+        {
+            id: "OPP26283",
+            title: "For Sale, 3 + 1 Apartment, Electric Market, Tirana.",
+            location: "Bllok Tirana",
+            beds: 2,
+            Area: 150,
+            agent: "Brunilda Hasko",
+            propertyUrl: "https://crm-cdn.ams3.digitaloceanspaces.com/futurehome/storage/futurehome/2022/June/week2/450x337/179144_WhatsApp_Image_2022-06-07_at_2.04.24_PM_(2).jpg",
+            agentUrl: "https://crm-cdn.ams3.digitaloceanspaces.com/futurehome/storage/futurehome/2022/June/week2/1024x768/179450_WhatsApp_Image_2022-06-09_at_5.14.47_PM_(7).jpg",
+            type: "Commercial",
+            rooms: 3,
+            rent: true,
+            forSale: false,
+            price: 300
+        },
+        {
+            id: "OPP26283",
+            title: "Rent, Business Environment, Block",
+            location: "Bllok Tirana",
+            beds: 2,
+            Area: 84,
+            agent: "Albert Sejdini",
+            propertyUrl: "https://crm-cdn.ams3.digitaloceanspaces.com/futurehome/storage/futurehome/2022/June/week2/450x337/179470_2+1_(4).jpg",
+            agentUrl: "https://futurehome.bspvision.com/storage/futurehome/2022/March/week2/825834_WhatsApp_Image_2022-03-10_at_13.02.10.jpeg",
+            type: "Apartment",
+            rooms: 3,
+            rent: true,
+            forSale: false,
+            price: 2000
+        },
+        {
+            id: "AL26286",
+            title: "Rent, Apartment 2 + 1, Ali Demi, Tirana.",
+            location: "Ali Demi Tirana",
+            beds: 2,
+            Area: 84,
+            agent: "Albert Sejdini",
+            propertyUrl: "https://crm-cdn.ams3.digitaloceanspaces.com/futurehome/storage/futurehome/2022/June/week2/450x337/179470_2+1_(4).jpg",
+            agentUrl: "https://futurehome.bspvision.com/storage/futurehome/2022/March/week2/825834_WhatsApp_Image_2022-03-10_at_13.02.10.jpeg",
+            type: "Apartment",
+            rooms: 3,
+            rent: true,
+            forSale: false,
+            price: 250
+        },
+        {
+            id: "AL26286",
+            title: "Rent, Apartment 2 + 1, Ali Demi, Tirana.",
+            location: "Ali Demi Tirana",
+            beds: 2,
+            Area: 84,
+            agent: "Albert Sejdini",
+            propertyUrl: "https://crm-cdn.ams3.digitaloceanspaces.com/futurehome/storage/futurehome/2022/June/week2/450x337/179470_2+1_(4).jpg",
+            agentUrl: "https://futurehome.bspvision.com/storage/futurehome/2022/March/week2/825834_WhatsApp_Image_2022-03-10_at_13.02.10.jpeg",
+            type: "Apartment",
+            rooms: 3,
+            rent: true,
+            forSale: false,
+            price: 250
+        },
+        {
+            id: "AL26286",
+            title: "Rent, Apartment 2 + 1, Ali Demi, Tirana.",
+            location: "Ali Demi Tirana",
+            beds: 2,
+            Area: 84,
+            agent: "Albert Sejdini",
+            propertyUrl: "https://crm-cdn.ams3.digitaloceanspaces.com/futurehome/storage/futurehome/2022/June/week2/450x337/179470_2+1_(4).jpg",
+            agentUrl: "https://futurehome.bspvision.com/storage/futurehome/2022/March/week2/825834_WhatsApp_Image_2022-03-10_at_13.02.10.jpeg",
+            type: "Apartment",
+            rooms: 3,
+            rent: true,
+            forSale: false,
+            price: 250
+        }
+    ],
+    agents: [
+        {
+            name: "Albert Sejdini",
+            phone: "+355 45628292",
+            secondPhone: "+355692062162",
+            email: "albert.sejdini@futurehomealidemi.al",
+            companyEmail: "integrity@futurehome.al",
+            location: "Future Home Integrity",
+            properties: [
+                "AL26286",
+                "AL26251",
+                "AL26237",
+                "AL26104",
+                "AL25799",
+                "AL25740",
+                "AL25464",
+                "AL25293",
+                "AL25167",
+                "AL24720",
+                "AL24461",
+                "AL24169"
+            ]
+        },
+        {
+            name: "Brunilda Hasko",
+            phone: "+35545628173",
+            secondPhone: "+355697015483",
+            email: "brunilda.hasko@futurehomeopportunity.al",
+            companyEmail: "futurehomeopportunity2020@gmail.com",
+            location: "Future Home Opportunity",
+            properties: [
+                "AL26286",
+                "AL26251",
+                "AL26237",
+                "AL26104",
+                "AL25799",
+                "AL25740",
+                "AL25464",
+                "AL25293",
+                "AL25167",
+                "AL24720",
+                "AL24461",
+                "AL24169"
+            ]
+        }
+    ]
+}

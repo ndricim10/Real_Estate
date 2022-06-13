@@ -1,0 +1,2537 @@
+{
+    "properties": {
+        "hits": [
+            {
+                "id": 1942863,
+                "ownerID": 841590,
+                "userExternalID": "841590",
+                "sourceID": 1,
+                "state": "active",
+                "geologic": [],
+                "geography": {
+                    "lat": 25.081455,
+                    "lng": 55.139855
+                },
+                "purpose": "for-rent",
+                "price": 11600,
+                "product": "superhot",
+                "productLabel": "default",
+                "productScore": 0,
+                "rentFrequency": "monthly",
+                "permitNumber": "JUM-MUR-EWJH0",
+                "title": "No Commission | Bills Included | Spacious 2BD on 29 floor of Murjan 1",
+                "title_l1": "شقة في مرجان 1 مرجان جميرا بيتش ريزيدنس 2 غرف 11600 درهم - 4729975",
+                "externalID": "4729975",
+                "slug": "no-commission-bills-included-spacious-2bd-on-29-floor-of-murjan-1-4729975",
+                "slug_l1": "no-commission-bills-included-spacious-2bd-on-29-floor-of-murjan-1-4729975",
+                "location": [
+                    {
+                        "id": 1,
+                        "level": 0,
+                        "externalID": "5001",
+                        "name": "UAE",
+                        "name_l1": "الإمارات",
+                        "slug": "/uae",
+                        "slug_l1": "/uae"
+                    },
+                    {
+                        "id": 2,
+                        "level": 1,
+                        "externalID": "5002",
+                        "name": "Dubai",
+                        "name_l1": "دبي",
+                        "slug": "/dubai",
+                        "slug_l1": "/dubai"
+                    },
+                    {
+                        "id": 87,
+                        "level": 2,
+                        "externalID": "5549",
+                        "name": "Jumeirah Beach Residence (JBR)",
+                        "name_l1": "جميرا بيتش ريزيدنس",
+                        "slug": "/dubai/jumeirah-beach-residence-jbr",
+                        "slug_l1": "/dubai/jumeirah-beach-residence-jbr"
+                    },
+                    {
+                        "id": 4085,
+                        "level": 3,
+                        "externalID": "8437",
+                        "name": "Murjan",
+                        "name_l1": "مرجان",
+                        "slug": "/dubai/jumeirah-beach-residence-jbr/murjan",
+                        "slug_l1": "/dubai/jumeirah-beach-residence-jbr/murjan"
+                    },
+                    {
+                        "id": 4086,
+                        "level": 4,
+                        "externalID": "5583",
+                        "name": "Murjan 1",
+                        "name_l1": "مرجان 1",
+                        "slug": "/dubai/jumeirah-beach-residence-jbr/murjan/murjan-1",
+                        "slug_l1": "/dubai/jumeirah-beach-residence-jbr/murjan/murjan-1"
+                    }
+                ],
+                "category": [
+                    {
+                        "id": 1,
+                        "level": 0,
+                        "externalID": "1",
+                        "name": "Residential",
+                        "name_l1": "سكني",
+                        "slug": "residential",
+                        "slug_l1": "residential",
+                        "nameSingular": "Residential",
+                        "nameSingular_l1": "سكني"
+                    },
+                    {
+                        "id": 2,
+                        "level": 1,
+                        "externalID": "4",
+                        "name": "Apartments",
+                        "name_l1": "شقق",
+                        "slug": "apartments",
+                        "slug_l1": "apartments",
+                        "nameSingular": "Apartment",
+                        "nameSingular_l1": "شقة"
+                    }
+                ],
+                "createdAt": 1597480835,
+                "updatedAt": 1654929145,
+                "reactivatedAt": 1652080568.909766,
+                "rooms": 2,
+                "baths": 2,
+                "area": 134.709408,
+                "score": 100,
+                "score_l1": 62,
+                "coverPhoto": {
+                    "id": 196665891,
+                    "externalID": "99656781",
+                    "title": "NULL",
+                    "orderIndex": 0,
+                    "nimaScore": 9.762245797342985,
+                    "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/196665891/eb504436794748e88b6cf565f62b49b6",
+                    "main": true
+                },
+                "photoCount": 49,
+                "videoCount": 0,
+                "panoramaCount": 0,
+                "phoneNumber": {
+                    "mobile": "+971527219778",
+                    "phone": "+971529717219778",
+                    "whatsapp": "971527219778",
+                    "proxyMobile": "+971588038537",
+                    "phoneNumbers": [
+                        "+971529717219778"
+                    ],
+                    "mobileNumbers": [
+                        "+971527219778"
+                    ]
+                },
+                "contactName": "Joan Pascua",
+                "agency": {
+                    "id": 29563293,
+                    "objectID": 29563293,
+                    "name": "Apricus Holiday Homes",
+                    "name_l1": "أبريكوس هوليداي هومز",
+                    "externalID": "9460",
+                    "product": "premium",
+                    "productScore": 2,
+                    "licences": [
+                        {
+                            "number": "748161",
+                            "authority": "DED"
+                        }
+                    ],
+                    "logo": {
+                        "id": 90721225,
+                        "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/90721225/afa38f25435d4ad5be91722b29a7c5e4"
+                    },
+                    "slug": "apricus-holiday-homes-9460",
+                    "slug_l1": "apricus-holiday-homes-9460",
+                    "tier": 4,
+                    "roles": [],
+                    "active": true,
+                    "createdAt": "2020-04-22T12:00:45.750514+00:00",
+                    "commercialNumber": "NULL"
+                },
+                "hash": "0eca67f",
+                "keywords": [
+                    "bills included",
+                    "spacious",
+                    "floor",
+                    "parking",
+                    "furnished",
+                    "kitchen"
+                ],
+                "isVerified": false,
+                "verification": {
+                    "updatedAt": 1597643316.904867,
+                    "eligible": true,
+                    "status": "unverified",
+                    "verifiedAt": "NULL"
+                },
+                "verifiedScore": 1,
+                "completionStatus": "completed",
+                "randBoostScore": 571,
+                "randBoostScore_l1": 571,
+                "floorPlanID": "NULL",
+                "furnishingStatus": "furnished",
+                "extraFields": {},
+                "type": "property",
+                "cityLevelScore": 1,
+                "indyScore": 571,
+                "indyScore_l1": 571,
+                "hasMatchingFloorPlans": false,
+                "photoIDs": [
+                    196665891,
+                    196665894,
+                    196665897,
+                    196665900,
+                    196665903,
+                    196665906,
+                    196665909,
+                    196665912,
+                    196665915,
+                    196665918,
+                    196665921,
+                    196665924,
+                    196665927,
+                    196665930
+                ],
+                "hidePrice": false,
+                "objectID": "1942863",
+                "referenceNumber": {
+                    "_highlightResult": {
+                        "value": "Murjan29",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "title": {
+                        "value": "No Commission | Bills Included | Spacious 2BD on 29 floor of Murjan 1",
+                        "matchLevel": "none"
+                    }
+                }
+            },
+            {
+                "id": 2847466,
+                "ownerID": 1055160,
+                "userExternalID": "841590",
+                "sourceID": 1,
+                "state": "active",
+                "geologic": [],
+                "geography": {
+                    "lat": 25.081455,
+                    "lng": 55.139855
+                },
+                "purpose": "for-rent",
+                "price": 225000,
+                "product": "superhot",
+                "productLabel": "default",
+                "productScore": 0,
+                "rentFrequency": "monthly",
+                "permitNumber": "JUM-MUR-EWJH0",
+                "title": "New!!! Sea view signature 7 BDR Villa in Palm Jumeirah",
+                "title_l1": "شقة في مرجان 1 مرجان جميرا بيتش ريزيدنس 2 غرف 11600 درهم - 4729975",
+                "externalID": "5584340",
+                "slug": "new-sea-view-signature-7-bdr-villa-in-palm-jumeirah-5584340",
+                "slug_l1": "new-sea-view-signature-7-bdr-villa-in-palm-jumeirah-5584340",
+                "location": [
+                    {
+                        "id": 1,
+                        "level": 0,
+                        "externalID": "5001",
+                        "name": "UAE",
+                        "name_l1": "الإمارات",
+                        "slug": "/uae",
+                        "slug_l1": "/uae"
+                    },
+                    {
+                        "id": 2,
+                        "level": 1,
+                        "externalID": "5002",
+                        "name": "Dubai",
+                        "name_l1": "دبي",
+                        "slug": "/dubai",
+                        "slug_l1": "/dubai"
+                    },
+                    {
+                        "id": 87,
+                        "level": 2,
+                        "externalID": "5549",
+                        "name": "Jumeirah Beach Residence (JBR)",
+                        "name_l1": "جميرا بيتش ريزيدنس",
+                        "slug": "/dubai/jumeirah-beach-residence-jbr",
+                        "slug_l1": "/dubai/jumeirah-beach-residence-jbr"
+                    },
+                    {
+                        "id": 4085,
+                        "level": 3,
+                        "externalID": "8437",
+                        "name": "Murjan",
+                        "name_l1": "مرجان",
+                        "slug": "/dubai/jumeirah-beach-residence-jbr/murjan",
+                        "slug_l1": "/dubai/jumeirah-beach-residence-jbr/murjan"
+                    },
+                    {
+                        "id": 4086,
+                        "level": 4,
+                        "externalID": "5583",
+                        "name": "Murjan 1",
+                        "name_l1": "مرجان 1",
+                        "slug": "/dubai/jumeirah-beach-residence-jbr/murjan/murjan-1",
+                        "slug_l1": "/dubai/jumeirah-beach-residence-jbr/murjan/murjan-1"
+                    }
+                ],
+                "category": [
+                    {
+                        "id": 1,
+                        "level": 0,
+                        "externalID": "1",
+                        "name": "Residential",
+                        "name_l1": "سكني",
+                        "slug": "residential",
+                        "slug_l1": "residential",
+                        "nameSingular": "Residential",
+                        "nameSingular_l1": "سكني"
+                    },
+                    {
+                        "id": 2,
+                        "level": 1,
+                        "externalID": "4",
+                        "name": "Villas",
+                        "name_l1": "شقق",
+                        "slug": "Villas",
+                        "slug_l1": "Villas",
+                        "nameSingular": "Vilas",
+                        "nameSingular_l1": "شقة"
+                    }
+                ],
+                "createdAt": 1639390334,
+                "updatedAt": 1654785355,
+                "reactivatedAt": 1654238710.008254,
+                "rooms": 7,
+                "baths": 8,
+                "area": 1243.9717056,
+                "score": 100,
+                "score_l1": 62,
+                "coverPhoto": {
+                    "id": 173824375,
+                    "externalID": "99656781",
+                    "title": "NULL",
+                    "orderIndex": 0,
+                    "nimaScore": 9.930717296014196,
+                    "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/173824375/74c145eccb334fa4aab068a8924ae25e",
+                    "main": true
+                },
+                "photoCount": 22,
+                "videoCount": 1,
+                "panoramaCount": 0,
+                "phoneNumber": {
+                    "mobile": "+971505635253",
+                    "phone": "+9714673829",
+                    "whatsapp": "971505635253",
+                    "proxyMobile": "+971522384684",
+                    "phoneNumbers": [
+                        "+971505635253"
+                    ],
+                    "mobileNumbers": [
+                        "+971527219778"
+                    ]
+                },
+                "contactName": "Luxury Stays Vacation Homes Rental LLC",
+                "agency": {
+                    "id": 29592792,
+                    "objectID": 29592792,
+                    "name": "Luxury Stays Vacation Home Rentals LLC",
+                    "name_l1": "أبريكوس هوليداي هومز",
+                    "externalID": "9460",
+                    "product": "premium",
+                    "productScore": 2,
+                    "licences": [
+                        {
+                            "number": "748161",
+                            "authority": "DED"
+                        }
+                    ],
+                    "logo": {
+                        "id": 102209242,
+                        "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/102209242/92a58aa978cd4fb1bb5bd2c940366c28"
+                    },
+                    "slug": "luxury-stays-vacation-home-rentals-llc-10294",
+                    "slug_l1": "apricus-holiday-homes-9460",
+                    "tier": 4,
+                    "roles": [],
+                    "active": true,
+                    "createdAt": "2020-04-22T12:00:45.750514+00:00",
+                    "commercialNumber": "NULL"
+                },
+                "hash": "0eca67f",
+                "keywords": [
+                    "bills included",
+                    "spacious",
+                    "floor",
+                    "parking",
+                    "furnished",
+                    "kitchen"
+                ],
+                "isVerified": false,
+                "verification": {
+                    "updatedAt": 1597643316.904867,
+                    "eligible": true,
+                    "status": "unverified",
+                    "verifiedAt": "NULL"
+                },
+                "verifiedScore": 1,
+                "completionStatus": "completed",
+                "randBoostScore": 571,
+                "randBoostScore_l1": 571,
+                "floorPlanID": "NULL",
+                "furnishingStatus": "furnished",
+                "extraFields": {},
+                "type": "property",
+                "cityLevelScore": 1,
+                "indyScore": 571,
+                "indyScore_l1": 571,
+                "hasMatchingFloorPlans": false,
+                "photoIDs": [
+                    196665891,
+                    196665894,
+                    196665897,
+                    196665900,
+                    196665903,
+                    196665906,
+                    196665909,
+                    196665912,
+                    196665915,
+                    196665918,
+                    196665921,
+                    196665924,
+                    196665927,
+                    196665930
+                ],
+                "hidePrice": false,
+                "objectID": "1942863",
+                "referenceNumber": {
+                    "_highlightResult": {
+                        "value": "Murjan29",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "title": {
+                        "value": "No Commission | Bills Included | Spacious 2BD on 29 floor of Murjan 1",
+                        "matchLevel": "none"
+                    }
+                }
+            },
+            {
+                "id": 2891085,
+                "ownerID": 1060127,
+                "userExternalID": "841590",
+                "sourceID": 1,
+                "state": "active",
+                "geologic": [],
+                "geography": {
+                    "lat": 25.081455,
+                    "lng": 55.139855
+                },
+                "purpose":"for-rent",
+                "price": 15540,
+                "product": "superhot",
+                "productLabel": "default",
+                "productScore": 0,
+                "rentFrequency": "monthly",
+                "permitNumber": "JUM-MUR-EWJH0",
+                "title": "2 BR The Residences Fountain + Burj View",
+                "title_l1": "شقة في مرجان 1 مرجان جميرا بيتش ريزيدنس 2 غرف 11600 درهم - 4729975",
+                "externalID": "4729975",
+                "slug": "no-commission-bills-included-spacious-2bd-on-29-floor-of-murjan-1-4729975",
+                "slug_l1": "no-commission-bills-included-spacious-2bd-on-29-floor-of-murjan-1-4729975",
+                "location": [
+                    {
+                        "id": 1,
+                        "level": 0,
+                        "externalID": "5001",
+                        "name": "UAE",
+                        "name_l1": "الإمارات",
+                        "slug": "/uae",
+                        "slug_l1": "/uae"
+                    },
+                    {
+                        "id": 2,
+                        "level": 1,
+                        "externalID": "5002",
+                        "name": "Dubai",
+                        "name_l1": "دبي",
+                        "slug": "/dubai",
+                        "slug_l1": "/dubai"
+                    },
+                    {
+                        "id": 87,
+                        "level": 2,
+                        "externalID": "5549",
+                        "name": "Jumeirah Beach Residence (JBR)",
+                        "name_l1": "جميرا بيتش ريزيدنس",
+                        "slug": "/dubai/jumeirah-beach-residence-jbr",
+                        "slug_l1": "/dubai/jumeirah-beach-residence-jbr"
+                    },
+                    {
+                        "id": 4085,
+                        "level": 3,
+                        "externalID": "8437",
+                        "name": "Murjan",
+                        "name_l1": "مرجان",
+                        "slug": "/dubai/jumeirah-beach-residence-jbr/murjan",
+                        "slug_l1": "/dubai/jumeirah-beach-residence-jbr/murjan"
+                    },
+                    {
+                        "id": 4086,
+                        "level": 4,
+                        "externalID": "5583",
+                        "name": "Murjan 1",
+                        "name_l1": "مرجان 1",
+                        "slug": "/dubai/jumeirah-beach-residence-jbr/murjan/murjan-1",
+                        "slug_l1": "/dubai/jumeirah-beach-residence-jbr/murjan/murjan-1"
+                    }
+                ],
+                "category": [
+                    {
+                        "id": 1,
+                        "level": 0,
+                        "externalID": "1",
+                        "name": "Residential",
+                        "name_l1": "سكني",
+                        "slug": "residential",
+                        "slug_l1": "residential",
+                        "nameSingular": "Residential",
+                        "nameSingular_l1": "سكني"
+                    },
+                    {
+                        "id": 2,
+                        "level": 1,
+                        "externalID": "4",
+                        "name": "Apartments",
+                        "name_l1": "alternative name",
+                        "slug": "apartments",
+                        "slug_l1": "apartments",
+                        "nameSingular": "Apartment",
+                        "nameSingular_l1": "شقة"
+                    }
+                ],
+                "createdAt": 1641288002,
+                "updatedAt": 1654929145,
+                "reactivatedAt": 1652080568.909766,
+                "rooms": 2,
+                "baths": 3,
+                "area": 134.895,
+                "score": 91,
+                "score_l1": 62,
+                "coverPhoto": {
+                    "id": 180306976,
+                    "externalID": "99656781",
+                    "title": "NULL",
+                    "orderIndex": 0,
+                    "nimaScore": 9.762245797342985,
+                    "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/180306976/e417ceb9c11d4ba1809d0794076488b1",
+                    "main": true
+                },
+                "photoCount": 27,
+                "videoCount": 0,
+                "panoramaCount": 0,
+                "phoneNumber": {
+                    "mobile": "+971527219778",
+                    "phone": "+971529717219778",
+                    "whatsapp": "971527219778",
+                    "proxyMobile": "+971588038537",
+                    "phoneNumbers": [
+                        "+971529717219778"
+                    ],
+                    "mobileNumbers": [
+                        "+971527219778"
+                    ]
+                },
+                "contactName": "Joan Pascua",
+                "agency": {
+                    "id": 29563293,
+                    "objectID": 29563293,
+                    "name": "Driven Holiday Homes",
+                    "name_l1": "أبريكوس هوليداي هومز",
+                    "externalID": "9460",
+                    "product": "premium",
+                    "productScore": 2,
+                    "licences": [
+                        {
+                            "number": "748161",
+                            "authority": "DED"
+                        }
+                    ],
+                    "logo": {
+                        "id": 90721225,
+                        "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/123148392/db88eef678134cf09a2586918ef5ad08"
+                    },
+                    "slug": "driven-holiday-homes-6756",
+                    "slug_l1": "apricus-holiday-homes-9460",
+                    "tier": 4,
+                    "roles": [],
+                    "active": true,
+                    "createdAt": "2020-04-22T12:00:45.750514+00:00",
+                    "commercialNumber": "NULL"
+                },
+                "hash": "0eca67f",
+                "keywords": [
+                    "bills included",
+                    "spacious",
+                    "floor",
+                    "parking",
+                    "furnished",
+                    "kitchen"
+                ],
+                "isVerified": false,
+                "verification": {
+                    "updatedAt": 1597643316.904867,
+                    "eligible": true,
+                    "status": "unverified",
+                    "verifiedAt": "NULL"
+                },
+                "verifiedScore": 1,
+                "completionStatus": "completed",
+                "randBoostScore": 571,
+                "randBoostScore_l1": 571,
+                "floorPlanID": "NULL",
+                "furnishingStatus": "furnished",
+                "extraFields": {},
+                "type": "property",
+                "cityLevelScore": 1,
+                "indyScore": 571,
+                "indyScore_l1": 571,
+                "hasMatchingFloorPlans": false,
+                "photoIDs": [
+                    196665891,
+                    196665894,
+                    196665897,
+                    196665900,
+                    196665903,
+                    196665906,
+                    196665909,
+                    196665912,
+                    196665915,
+                    196665918,
+                    196665921,
+                    196665924,
+                    196665927,
+                    196665930
+                ],
+                "hidePrice": false,
+                "objectID": "1942863",
+                "referenceNumber": {
+                    "_highlightResult": {
+                        "value": "Murjan29",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "title": {
+                        "value": "No Commission | Bills Included | Spacious 2BD on 29 floor of Murjan 1",
+                        "matchLevel": "none"
+                    }
+                }
+            },
+            {
+                "id": 3282834,
+                "ownerID": 841590,
+                "userExternalID": "1859468",
+                "sourceID": 1,
+                "state": "active",
+                "geologic": [],
+                "geography": {
+                    "lat": 25.081455,
+                    "lng": 55.139855
+                },
+                "price": 11600,
+                "product": "superhot",
+                "productLabel": "default",
+                "productScore": 0,
+                "rentFrequency": "monthly",
+                "permitNumber": "JUM-MUR-EWJH0",
+                "title": "No Commission | Bills Included | Spacious 2BD on 29 floor of Murjan 1",
+                "title_l1": "شقة في مرجان 1 مرجان جميرا بيتش ريزيدنس 2 غرف 11600 درهم - 4729975",
+                "externalID": "4729975",
+                "slug": "no-commission-bills-included-spacious-2bd-on-29-floor-of-murjan-1-4729975",
+                "slug_l1": "no-commission-bills-included-spacious-2bd-on-29-floor-of-murjan-1-4729975",
+                "location": [
+                    {
+                        "id": 1,
+                        "level": 0,
+                        "externalID": "5001",
+                        "name": "UAE",
+                        "name_l1": "الإمارات",
+                        "slug": "/uae",
+                        "slug_l1": "/uae"
+                    },
+                    {
+                        "id": 2,
+                        "level": 1,
+                        "externalID": "5002",
+                        "name": "Dubai",
+                        "name_l1": "دبي",
+                        "slug": "/dubai",
+                        "slug_l1": "/dubai"
+                    },
+                    {
+                        "id": 87,
+                        "level": 2,
+                        "externalID": "5549",
+                        "name": "Jumeirah Beach Residence (JBR)",
+                        "name_l1": "جميرا بيتش ريزيدنس",
+                        "slug": "/dubai/jumeirah-beach-residence-jbr",
+                        "slug_l1": "/dubai/jumeirah-beach-residence-jbr"
+                    },
+                    {
+                        "id": 4085,
+                        "level": 3,
+                        "externalID": "8437",
+                        "name": "Murjan",
+                        "name_l1": "مرجان",
+                        "slug": "/dubai/jumeirah-beach-residence-jbr/murjan",
+                        "slug_l1": "/dubai/jumeirah-beach-residence-jbr/murjan"
+                    },
+                    {
+                        "id": 4086,
+                        "level": 4,
+                        "externalID": "5583",
+                        "name": "Murjan 1",
+                        "name_l1": "مرجان 1",
+                        "slug": "/dubai/jumeirah-beach-residence-jbr/murjan/murjan-1",
+                        "slug_l1": "/dubai/jumeirah-beach-residence-jbr/murjan/murjan-1"
+                    }
+                ],
+                "category": [
+                    {
+                        "id": 1,
+                        "level": 0,
+                        "externalID": "1",
+                        "name": "Residential",
+                        "name_l1": "سكني",
+                        "slug": "residential",
+                        "slug_l1": "residential",
+                        "nameSingular": "Residential",
+                        "nameSingular_l1": "سكني"
+                    },
+                    {
+                        "id": 2,
+                        "level": 1,
+                        "externalID": "4",
+                        "name": "Apartments",
+                        "name_l1": "شقق",
+                        "slug": "apartments",
+                        "slug_l1": "apartments",
+                        "nameSingular": "Apartment",
+                        "nameSingular_l1": "شقة"
+                    }
+                ],
+                "createdAt": 1597480835,
+                "updatedAt": 1654929145,
+                "reactivatedAt": 1652080568.909766,
+                "rooms": 2,
+                "baths": 2,
+                "area": 134.709408,
+                "score": 100,
+                "score_l1": 62,
+                "coverPhoto": {
+                    "id": 196665891,
+                    "externalID": "99656781",
+                    "title": "NULL",
+                    "orderIndex": 0,
+                    "nimaScore": 9.762245797342985,
+                    "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/196665891/eb504436794748e88b6cf565f62b49b6",
+                    "main": true
+                },
+                "photoCount": 49,
+                "videoCount": 0,
+                "panoramaCount": 0,
+                "phoneNumber": {
+                    "mobile": "+971527219778",
+                    "phone": "+971529717219778",
+                    "whatsapp": "971527219778",
+                    "proxyMobile": "+971588038537",
+                    "phoneNumbers": [
+                        "+971529717219778"
+                    ],
+                    "mobileNumbers": [
+                        "+971527219778"
+                    ]
+                },
+                "contactName": "Joan Pascua",
+                "agency": {
+                    "id": 29563293,
+                    "objectID": 29563293,
+                    "name": "Apricus Holiday Homes",
+                    "name_l1": "أبريكوس هوليداي هومز",
+                    "externalID": "9460",
+                    "product": "premium",
+                    "productScore": 2,
+                    "licences": [
+                        {
+                            "number": "748161",
+                            "authority": "DED"
+                        }
+                    ],
+                    "logo": {
+                        "id": 90721225,
+                        "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/90721225/afa38f25435d4ad5be91722b29a7c5e4"
+                    },
+                    "slug": "apricus-holiday-homes-9460",
+                    "slug_l1": "apricus-holiday-homes-9460",
+                    "tier": 4,
+                    "roles": [],
+                    "active": true,
+                    "createdAt": "2020-04-22T12:00:45.750514+00:00",
+                    "commercialNumber": "NULL"
+                },
+                "hash": "0eca67f",
+                "keywords": [
+                    "bills included",
+                    "spacious",
+                    "floor",
+                    "parking",
+                    "furnished",
+                    "kitchen"
+                ],
+                "isVerified": false,
+                "verification": {
+                    "updatedAt": 1597643316.904867,
+                    "eligible": true,
+                    "status": "unverified",
+                    "verifiedAt": "NULL"
+                },
+                "verifiedScore": 1,
+                "completionStatus": "completed",
+                "randBoostScore": 571,
+                "randBoostScore_l1": 571,
+                "floorPlanID": "NULL",
+                "furnishingStatus": "furnished",
+                "extraFields": {},
+                "type": "property",
+                "cityLevelScore": 1,
+                "indyScore": 571,
+                "indyScore_l1": 571,
+                "hasMatchingFloorPlans": false,
+                "photoIDs": [
+                    196665891,
+                    196665894,
+                    196665897,
+                    196665900,
+                    196665903,
+                    196665906,
+                    196665909,
+                    196665912,
+                    196665915,
+                    196665918,
+                    196665921,
+                    196665924,
+                    196665927,
+                    196665930
+                ],
+                "hidePrice": false,
+                "objectID": "1942863",
+                "referenceNumber": {
+                    "_highlightResult": {
+                        "value": "Murjan29",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "title": {
+                        "value": "No Commission | Bills Included | Spacious 2BD on 29 floor of Murjan 1",
+                        "matchLevel": "none"
+                    }
+                }
+            },
+            {
+                "id": 1586686,
+                "ownerID": 841590,
+                "userExternalID": "841590",
+                "sourceID": 1,
+                "state": "active",
+                "geologic": [],
+                "geography": {
+                    "lat": 25.081455,
+                    "lng": 55.139855
+                },
+                "price": 11600,
+                "product": "superhot",
+                "productLabel": "default",
+                "productScore": 0,
+                "rentFrequency": "monthly",
+                "permitNumber": "JUM-MUR-EWJH0",
+                "title": "No Commission | Bills Included | Spacious 2BD on 29 floor of Murjan 1",
+                "title_l1": "شقة في مرجان 1 مرجان جميرا بيتش ريزيدنس 2 غرف 11600 درهم - 4729975",
+                "externalID": "4729975",
+                "slug": "no-commission-bills-included-spacious-2bd-on-29-floor-of-murjan-1-4729975",
+                "slug_l1": "no-commission-bills-included-spacious-2bd-on-29-floor-of-murjan-1-4729975",
+                "location": [
+                    {
+                        "id": 1,
+                        "level": 0,
+                        "externalID": "5001",
+                        "name": "UAE",
+                        "name_l1": "الإمارات",
+                        "slug": "/uae",
+                        "slug_l1": "/uae"
+                    },
+                    {
+                        "id": 2,
+                        "level": 1,
+                        "externalID": "5002",
+                        "name": "Dubai",
+                        "name_l1": "دبي",
+                        "slug": "/dubai",
+                        "slug_l1": "/dubai"
+                    },
+                    {
+                        "id": 87,
+                        "level": 2,
+                        "externalID": "5549",
+                        "name": "Jumeirah Beach Residence (JBR)",
+                        "name_l1": "جميرا بيتش ريزيدنس",
+                        "slug": "/dubai/jumeirah-beach-residence-jbr",
+                        "slug_l1": "/dubai/jumeirah-beach-residence-jbr"
+                    },
+                    {
+                        "id": 4085,
+                        "level": 3,
+                        "externalID": "8437",
+                        "name": "Murjan",
+                        "name_l1": "مرجان",
+                        "slug": "/dubai/jumeirah-beach-residence-jbr/murjan",
+                        "slug_l1": "/dubai/jumeirah-beach-residence-jbr/murjan"
+                    },
+                    {
+                        "id": 4086,
+                        "level": 4,
+                        "externalID": "5583",
+                        "name": "Murjan 1",
+                        "name_l1": "مرجان 1",
+                        "slug": "/dubai/jumeirah-beach-residence-jbr/murjan/murjan-1",
+                        "slug_l1": "/dubai/jumeirah-beach-residence-jbr/murjan/murjan-1"
+                    }
+                ],
+                "category": [
+                    {
+                        "id": 1,
+                        "level": 0,
+                        "externalID": "1",
+                        "name": "Residential",
+                        "name_l1": "سكني",
+                        "slug": "residential",
+                        "slug_l1": "residential",
+                        "nameSingular": "Residential",
+                        "nameSingular_l1": "سكني"
+                    },
+                    {
+                        "id": 2,
+                        "level": 1,
+                        "externalID": "4",
+                        "name": "Apartments",
+                        "name_l1": "شقق",
+                        "slug": "apartments",
+                        "slug_l1": "apartments",
+                        "nameSingular": "Apartment",
+                        "nameSingular_l1": "شقة"
+                    }
+                ],
+                "createdAt": 1597480835,
+                "updatedAt": 1654929145,
+                "reactivatedAt": 1652080568.909766,
+                "rooms": 2,
+                "baths": 2,
+                "area": 134.709408,
+                "score": 100,
+                "score_l1": 62,
+                "coverPhoto": {
+                    "id": 196665891,
+                    "externalID": "99656781",
+                    "title": "NULL",
+                    "orderIndex": 0,
+                    "nimaScore": 9.762245797342985,
+                    "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/196665891/eb504436794748e88b6cf565f62b49b6",
+                    "main": true
+                },
+                "photoCount": 49,
+                "videoCount": 0,
+                "panoramaCount": 0,
+                "phoneNumber": {
+                    "mobile": "+971527219778",
+                    "phone": "+971529717219778",
+                    "whatsapp": "971527219778",
+                    "proxyMobile": "+971588038537",
+                    "phoneNumbers": [
+                        "+971529717219778"
+                    ],
+                    "mobileNumbers": [
+                        "+971527219778"
+                    ]
+                },
+                "contactName": "Joan Pascua",
+                "agency": {
+                    "id": 29563293,
+                    "objectID": 29563293,
+                    "name": "Apricus Holiday Homes",
+                    "name_l1": "أبريكوس هوليداي هومز",
+                    "externalID": "9460",
+                    "product": "premium",
+                    "productScore": 2,
+                    "licences": [
+                        {
+                            "number": "748161",
+                            "authority": "DED"
+                        }
+                    ],
+                    "logo": {
+                        "id": 90721225,
+                        "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/90721225/afa38f25435d4ad5be91722b29a7c5e4"
+                    },
+                    "slug": "apricus-holiday-homes-9460",
+                    "slug_l1": "apricus-holiday-homes-9460",
+                    "tier": 4,
+                    "roles": [],
+                    "active": true,
+                    "createdAt": "2020-04-22T12:00:45.750514+00:00",
+                    "commercialNumber": "NULL"
+                },
+                "hash": "0eca67f",
+                "keywords": [
+                    "bills included",
+                    "spacious",
+                    "floor",
+                    "parking",
+                    "furnished",
+                    "kitchen"
+                ],
+                "isVerified": false,
+                "verification": {
+                    "updatedAt": 1597643316.904867,
+                    "eligible": true,
+                    "status": "unverified",
+                    "verifiedAt": "NULL"
+                },
+                "verifiedScore": 1,
+                "completionStatus": "completed",
+                "randBoostScore": 571,
+                "randBoostScore_l1": 571,
+                "floorPlanID": "NULL",
+                "furnishingStatus": "furnished",
+                "extraFields": {},
+                "type": "property",
+                "cityLevelScore": 1,
+                "indyScore": 571,
+                "indyScore_l1": 571,
+                "hasMatchingFloorPlans": false,
+                "photoIDs": [
+                    196665891,
+                    196665894,
+                    196665897,
+                    196665900,
+                    196665903,
+                    196665906,
+                    196665909,
+                    196665912,
+                    196665915,
+                    196665918,
+                    196665921,
+                    196665924,
+                    196665927,
+                    196665930
+                ],
+                "hidePrice": false,
+                "objectID": "1942863",
+                "referenceNumber": {
+                    "_highlightResult": {
+                        "value": "Murjan29",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "title": {
+                        "value": "No Commission | Bills Included | Spacious 2BD on 29 floor of Murjan 1",
+                        "matchLevel": "none"
+                    }
+                }
+            },
+            {
+                "id": 1786550,
+                "ownerID": 841590,
+                "userExternalID": "841590",
+                "sourceID": 1,
+                "state": "active",
+                "geologic": [],
+                "geography": {
+                    "lat": 25.081455,
+                    "lng": 55.139855
+                },
+                "price": 11600,
+                "product": "superhot",
+                "productLabel": "default",
+                "productScore": 0,
+                "rentFrequency": "monthly",
+                "permitNumber": "JUM-MUR-EWJH0",
+                "title": "No Commission | Bills Included | Spacious 2BD on 29 floor of Murjan 1",
+                "title_l1": "شقة في مرجان 1 مرجان جميرا بيتش ريزيدنس 2 غرف 11600 درهم - 4729975",
+                "externalID": "4729975",
+                "slug": "no-commission-bills-included-spacious-2bd-on-29-floor-of-murjan-1-4729975",
+                "slug_l1": "no-commission-bills-included-spacious-2bd-on-29-floor-of-murjan-1-4729975",
+                "location": [
+                    {
+                        "id": 1,
+                        "level": 0,
+                        "externalID": "5001",
+                        "name": "UAE",
+                        "name_l1": "الإمارات",
+                        "slug": "/uae",
+                        "slug_l1": "/uae"
+                    },
+                    {
+                        "id": 2,
+                        "level": 1,
+                        "externalID": "5002",
+                        "name": "Dubai",
+                        "name_l1": "دبي",
+                        "slug": "/dubai",
+                        "slug_l1": "/dubai"
+                    },
+                    {
+                        "id": 87,
+                        "level": 2,
+                        "externalID": "5549",
+                        "name": "Jumeirah Beach Residence (JBR)",
+                        "name_l1": "جميرا بيتش ريزيدنس",
+                        "slug": "/dubai/jumeirah-beach-residence-jbr",
+                        "slug_l1": "/dubai/jumeirah-beach-residence-jbr"
+                    },
+                    {
+                        "id": 4085,
+                        "level": 3,
+                        "externalID": "8437",
+                        "name": "Murjan",
+                        "name_l1": "مرجان",
+                        "slug": "/dubai/jumeirah-beach-residence-jbr/murjan",
+                        "slug_l1": "/dubai/jumeirah-beach-residence-jbr/murjan"
+                    },
+                    {
+                        "id": 4086,
+                        "level": 4,
+                        "externalID": "5583",
+                        "name": "Murjan 1",
+                        "name_l1": "مرجان 1",
+                        "slug": "/dubai/jumeirah-beach-residence-jbr/murjan/murjan-1",
+                        "slug_l1": "/dubai/jumeirah-beach-residence-jbr/murjan/murjan-1"
+                    }
+                ],
+                "category": [
+                    {
+                        "id": 1,
+                        "level": 0,
+                        "externalID": "1",
+                        "name": "Residential",
+                        "name_l1": "سكني",
+                        "slug": "residential",
+                        "slug_l1": "residential",
+                        "nameSingular": "Residential",
+                        "nameSingular_l1": "سكني"
+                    },
+                    {
+                        "id": 2,
+                        "level": 1,
+                        "externalID": "4",
+                        "name": "Apartments",
+                        "name_l1": "شقق",
+                        "slug": "apartments",
+                        "slug_l1": "apartments",
+                        "nameSingular": "Apartment",
+                        "nameSingular_l1": "شقة"
+                    }
+                ],
+                "createdAt": 1597480835,
+                "updatedAt": 1654929145,
+                "reactivatedAt": 1652080568.909766,
+                "rooms": 2,
+                "baths": 2,
+                "area": 134.709408,
+                "score": 100,
+                "score_l1": 62,
+                "coverPhoto": {
+                    "id": 196665891,
+                    "externalID": "99656781",
+                    "title": "NULL",
+                    "orderIndex": 0,
+                    "nimaScore": 9.762245797342985,
+                    "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/196665891/eb504436794748e88b6cf565f62b49b6",
+                    "main": true
+                },
+                "photoCount": 49,
+                "videoCount": 0,
+                "panoramaCount": 0,
+                "phoneNumber": {
+                    "mobile": "+971527219778",
+                    "phone": "+971529717219778",
+                    "whatsapp": "971527219778",
+                    "proxyMobile": "+971588038537",
+                    "phoneNumbers": [
+                        "+971529717219778"
+                    ],
+                    "mobileNumbers": [
+                        "+971527219778"
+                    ]
+                },
+                "contactName": "Joan Pascua",
+                "agency": {
+                    "id": 29563293,
+                    "objectID": 29563293,
+                    "name": "Apricus Holiday Homes",
+                    "name_l1": "أبريكوس هوليداي هومز",
+                    "externalID": "9460",
+                    "product": "premium",
+                    "productScore": 2,
+                    "licences": [
+                        {
+                            "number": "748161",
+                            "authority": "DED"
+                        }
+                    ],
+                    "logo": {
+                        "id": 90721225,
+                        "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/90721225/afa38f25435d4ad5be91722b29a7c5e4"
+                    },
+                    "slug": "apricus-holiday-homes-9460",
+                    "slug_l1": "apricus-holiday-homes-9460",
+                    "tier": 4,
+                    "roles": [],
+                    "active": true,
+                    "createdAt": "2020-04-22T12:00:45.750514+00:00",
+                    "commercialNumber": "NULL"
+                },
+                "hash": "0eca67f",
+                "keywords": [
+                    "bills included",
+                    "spacious",
+                    "floor",
+                    "parking",
+                    "furnished",
+                    "kitchen"
+                ],
+                "isVerified": false,
+                "verification": {
+                    "updatedAt": 1597643316.904867,
+                    "eligible": true,
+                    "status": "unverified",
+                    "verifiedAt": "NULL"
+                },
+                "verifiedScore": 1,
+                "completionStatus": "completed",
+                "randBoostScore": 571,
+                "randBoostScore_l1": 571,
+                "floorPlanID": "NULL",
+                "furnishingStatus": "furnished",
+                "extraFields": {},
+                "type": "property",
+                "cityLevelScore": 1,
+                "indyScore": 571,
+                "indyScore_l1": 571,
+                "hasMatchingFloorPlans": false,
+                "photoIDs": [
+                    196665891,
+                    196665894,
+                    196665897,
+                    196665900,
+                    196665903,
+                    196665906,
+                    196665909,
+                    196665912,
+                    196665915,
+                    196665918,
+                    196665921,
+                    196665924,
+                    196665927,
+                    196665930
+                ],
+                "hidePrice": false,
+                "objectID": "1942863",
+                "referenceNumber": {
+                    "_highlightResult": {
+                        "value": "Murjan29",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "title": {
+                        "value": "No Commission | Bills Included | Spacious 2BD on 29 floor of Murjan 1",
+                        "matchLevel": "none"
+                    }
+                }
+            },
+            {
+                "id": 630952,
+                "ownerID": 841590,
+                "userExternalID": "841590",
+                "sourceID": 1,
+                "state": "active",
+                "geologic": [],
+                "geography": {
+                    "lat": 25.081455,
+                    "lng": 55.139855
+                },
+                "price": 11600,
+                "product": "superhot",
+                "productLabel": "default",
+                "productScore": 0,
+                "rentFrequency": "monthly",
+                "permitNumber": "JUM-MUR-EWJH0",
+                "title": "No Commission | Bills Included | Spacious 2BD on 29 floor of Murjan 1",
+                "title_l1": "شقة في مرجان 1 مرجان جميرا بيتش ريزيدنس 2 غرف 11600 درهم - 4729975",
+                "externalID": "4729975",
+                "slug": "no-commission-bills-included-spacious-2bd-on-29-floor-of-murjan-1-4729975",
+                "slug_l1": "no-commission-bills-included-spacious-2bd-on-29-floor-of-murjan-1-4729975",
+                "location": [
+                    {
+                        "id": 1,
+                        "level": 0,
+                        "externalID": "5001",
+                        "name": "UAE",
+                        "name_l1": "الإمارات",
+                        "slug": "/uae",
+                        "slug_l1": "/uae"
+                    },
+                    {
+                        "id": 2,
+                        "level": 1,
+                        "externalID": "5002",
+                        "name": "Dubai",
+                        "name_l1": "دبي",
+                        "slug": "/dubai",
+                        "slug_l1": "/dubai"
+                    },
+                    {
+                        "id": 87,
+                        "level": 2,
+                        "externalID": "5549",
+                        "name": "Jumeirah Beach Residence (JBR)",
+                        "name_l1": "جميرا بيتش ريزيدنس",
+                        "slug": "/dubai/jumeirah-beach-residence-jbr",
+                        "slug_l1": "/dubai/jumeirah-beach-residence-jbr"
+                    },
+                    {
+                        "id": 4085,
+                        "level": 3,
+                        "externalID": "8437",
+                        "name": "Murjan",
+                        "name_l1": "مرجان",
+                        "slug": "/dubai/jumeirah-beach-residence-jbr/murjan",
+                        "slug_l1": "/dubai/jumeirah-beach-residence-jbr/murjan"
+                    },
+                    {
+                        "id": 4086,
+                        "level": 4,
+                        "externalID": "5583",
+                        "name": "Murjan 1",
+                        "name_l1": "مرجان 1",
+                        "slug": "/dubai/jumeirah-beach-residence-jbr/murjan/murjan-1",
+                        "slug_l1": "/dubai/jumeirah-beach-residence-jbr/murjan/murjan-1"
+                    }
+                ],
+                "category": [
+                    {
+                        "id": 1,
+                        "level": 0,
+                        "externalID": "1",
+                        "name": "Residential",
+                        "name_l1": "سكني",
+                        "slug": "residential",
+                        "slug_l1": "residential",
+                        "nameSingular": "Residential",
+                        "nameSingular_l1": "سكني"
+                    },
+                    {
+                        "id": 2,
+                        "level": 1,
+                        "externalID": "4",
+                        "name": "Apartments",
+                        "name_l1": "شقق",
+                        "slug": "apartments",
+                        "slug_l1": "apartments",
+                        "nameSingular": "Apartment",
+                        "nameSingular_l1": "شقة"
+                    }
+                ],
+                "createdAt": 1597480835,
+                "updatedAt": 1654929145,
+                "reactivatedAt": 1652080568.909766,
+                "rooms": 2,
+                "baths": 2,
+                "area": 134.709408,
+                "score": 100,
+                "score_l1": 62,
+                "coverPhoto": {
+                    "id": 196665891,
+                    "externalID": "99656781",
+                    "title": "NULL",
+                    "orderIndex": 0,
+                    "nimaScore": 9.762245797342985,
+                    "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/196665891/eb504436794748e88b6cf565f62b49b6",
+                    "main": true
+                },
+                "photoCount": 49,
+                "videoCount": 0,
+                "panoramaCount": 0,
+                "phoneNumber": {
+                    "mobile": "+971527219778",
+                    "phone": "+971529717219778",
+                    "whatsapp": "971527219778",
+                    "proxyMobile": "+971588038537",
+                    "phoneNumbers": [
+                        "+971529717219778"
+                    ],
+                    "mobileNumbers": [
+                        "+971527219778"
+                    ]
+                },
+                "contactName": "Joan Pascua",
+                "agency": {
+                    "id": 29563293,
+                    "objectID": 29563293,
+                    "name": "Apricus Holiday Homes",
+                    "name_l1": "أبريكوس هوليداي هومز",
+                    "externalID": "9460",
+                    "product": "premium",
+                    "productScore": 2,
+                    "licences": [
+                        {
+                            "number": "748161",
+                            "authority": "DED"
+                        }
+                    ],
+                    "logo": {
+                        "id": 90721225,
+                        "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/90721225/afa38f25435d4ad5be91722b29a7c5e4"
+                    },
+                    "slug": "apricus-holiday-homes-9460",
+                    "slug_l1": "apricus-holiday-homes-9460",
+                    "tier": 4,
+                    "roles": [],
+                    "active": true,
+                    "createdAt": "2020-04-22T12:00:45.750514+00:00",
+                    "commercialNumber": "NULL"
+                },
+                "hash": "0eca67f",
+                "keywords": [
+                    "bills included",
+                    "spacious",
+                    "floor",
+                    "parking",
+                    "furnished",
+                    "kitchen"
+                ],
+                "isVerified": false,
+                "verification": {
+                    "updatedAt": 1597643316.904867,
+                    "eligible": true,
+                    "status": "unverified",
+                    "verifiedAt": "NULL"
+                },
+                "verifiedScore": 1,
+                "completionStatus": "completed",
+                "randBoostScore": 571,
+                "randBoostScore_l1": 571,
+                "floorPlanID": "NULL",
+                "furnishingStatus": "furnished",
+                "extraFields": {},
+                "type": "property",
+                "cityLevelScore": 1,
+                "indyScore": 571,
+                "indyScore_l1": 571,
+                "hasMatchingFloorPlans": false,
+                "photoIDs": [
+                    196665891,
+                    196665894,
+                    196665897,
+                    196665900,
+                    196665903,
+                    196665906,
+                    196665909,
+                    196665912,
+                    196665915,
+                    196665918,
+                    196665921,
+                    196665924,
+                    196665927,
+                    196665930
+                ],
+                "hidePrice": false,
+                "objectID": "1942863",
+                "referenceNumber": {
+                    "_highlightResult": {
+                        "value": "Murjan29",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "title": {
+                        "value": "No Commission | Bills Included | Spacious 2BD on 29 floor of Murjan 1",
+                        "matchLevel": "none"
+                    }
+                }
+            },
+            {
+                "id": 2819337,
+                "ownerID": 841590,
+                "userExternalID": "841590",
+                "sourceID": 1,
+                "state": "active",
+                "geologic": [],
+                "geography": {
+                    "lat": 25.081455,
+                    "lng": 55.139855
+                },
+                "price": 11600,
+                "product": "superhot",
+                "productLabel": "default",
+                "productScore": 0,
+                "rentFrequency": "monthly",
+                "permitNumber": "JUM-MUR-EWJH0",
+                "title": "No Commission | Bills Included | Spacious 2BD on 29 floor of Murjan 1",
+                "title_l1": "شقة في مرجان 1 مرجان جميرا بيتش ريزيدنس 2 غرف 11600 درهم - 4729975",
+                "externalID": "4729975",
+                "slug": "no-commission-bills-included-spacious-2bd-on-29-floor-of-murjan-1-4729975",
+                "slug_l1": "no-commission-bills-included-spacious-2bd-on-29-floor-of-murjan-1-4729975",
+                "location": [
+                    {
+                        "id": 1,
+                        "level": 0,
+                        "externalID": "5001",
+                        "name": "UAE",
+                        "name_l1": "الإمارات",
+                        "slug": "/uae",
+                        "slug_l1": "/uae"
+                    },
+                    {
+                        "id": 2,
+                        "level": 1,
+                        "externalID": "5002",
+                        "name": "Dubai",
+                        "name_l1": "دبي",
+                        "slug": "/dubai",
+                        "slug_l1": "/dubai"
+                    },
+                    {
+                        "id": 87,
+                        "level": 2,
+                        "externalID": "5549",
+                        "name": "Jumeirah Beach Residence (JBR)",
+                        "name_l1": "جميرا بيتش ريزيدنس",
+                        "slug": "/dubai/jumeirah-beach-residence-jbr",
+                        "slug_l1": "/dubai/jumeirah-beach-residence-jbr"
+                    },
+                    {
+                        "id": 4085,
+                        "level": 3,
+                        "externalID": "8437",
+                        "name": "Murjan",
+                        "name_l1": "مرجان",
+                        "slug": "/dubai/jumeirah-beach-residence-jbr/murjan",
+                        "slug_l1": "/dubai/jumeirah-beach-residence-jbr/murjan"
+                    },
+                    {
+                        "id": 4086,
+                        "level": 4,
+                        "externalID": "5583",
+                        "name": "Murjan 1",
+                        "name_l1": "مرجان 1",
+                        "slug": "/dubai/jumeirah-beach-residence-jbr/murjan/murjan-1",
+                        "slug_l1": "/dubai/jumeirah-beach-residence-jbr/murjan/murjan-1"
+                    }
+                ],
+                "category": [
+                    {
+                        "id": 1,
+                        "level": 0,
+                        "externalID": "1",
+                        "name": "Residential",
+                        "name_l1": "سكني",
+                        "slug": "residential",
+                        "slug_l1": "residential",
+                        "nameSingular": "Residential",
+                        "nameSingular_l1": "سكني"
+                    },
+                    {
+                        "id": 2,
+                        "level": 1,
+                        "externalID": "4",
+                        "name": "Apartments",
+                        "name_l1": "شقق",
+                        "slug": "apartments",
+                        "slug_l1": "apartments",
+                        "nameSingular": "Apartment",
+                        "nameSingular_l1": "شقة"
+                    }
+                ],
+                "createdAt": 1597480835,
+                "updatedAt": 1654929145,
+                "reactivatedAt": 1652080568.909766,
+                "rooms": 2,
+                "baths": 2,
+                "area": 134.709408,
+                "score": 100,
+                "score_l1": 62,
+                "coverPhoto": {
+                    "id": 196665891,
+                    "externalID": "99656781",
+                    "title": "NULL",
+                    "orderIndex": 0,
+                    "nimaScore": 9.762245797342985,
+                    "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/196665891/eb504436794748e88b6cf565f62b49b6",
+                    "main": true
+                },
+                "photoCount": 49,
+                "videoCount": 0,
+                "panoramaCount": 0,
+                "phoneNumber": {
+                    "mobile": "+971527219778",
+                    "phone": "+971529717219778",
+                    "whatsapp": "971527219778",
+                    "proxyMobile": "+971588038537",
+                    "phoneNumbers": [
+                        "+971529717219778"
+                    ],
+                    "mobileNumbers": [
+                        "+971527219778"
+                    ]
+                },
+                "contactName": "Joan Pascua",
+                "agency": {
+                    "id": 29563293,
+                    "objectID": 29563293,
+                    "name": "Apricus Holiday Homes",
+                    "name_l1": "أبريكوس هوليداي هومز",
+                    "externalID": "9460",
+                    "product": "premium",
+                    "productScore": 2,
+                    "licences": [
+                        {
+                            "number": "748161",
+                            "authority": "DED"
+                        }
+                    ],
+                    "logo": {
+                        "id": 90721225,
+                        "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/90721225/afa38f25435d4ad5be91722b29a7c5e4"
+                    },
+                    "slug": "apricus-holiday-homes-9460",
+                    "slug_l1": "apricus-holiday-homes-9460",
+                    "tier": 4,
+                    "roles": [],
+                    "active": true,
+                    "createdAt": "2020-04-22T12:00:45.750514+00:00",
+                    "commercialNumber": "NULL"
+                },
+                "hash": "0eca67f",
+                "keywords": [
+                    "bills included",
+                    "spacious",
+                    "floor",
+                    "parking",
+                    "furnished",
+                    "kitchen"
+                ],
+                "isVerified": false,
+                "verification": {
+                    "updatedAt": 1597643316.904867,
+                    "eligible": true,
+                    "status": "unverified",
+                    "verifiedAt": "NULL"
+                },
+                "verifiedScore": 1,
+                "completionStatus": "completed",
+                "randBoostScore": 571,
+                "randBoostScore_l1": 571,
+                "floorPlanID": "NULL",
+                "furnishingStatus": "furnished",
+                "extraFields": {},
+                "type": "property",
+                "cityLevelScore": 1,
+                "indyScore": 571,
+                "indyScore_l1": 571,
+                "hasMatchingFloorPlans": false,
+                "photoIDs": [
+                    196665891,
+                    196665894,
+                    196665897,
+                    196665900,
+                    196665903,
+                    196665906,
+                    196665909,
+                    196665912,
+                    196665915,
+                    196665918,
+                    196665921,
+                    196665924,
+                    196665927,
+                    196665930
+                ],
+                "hidePrice": false,
+                "objectID": "1942863",
+                "referenceNumber": {
+                    "_highlightResult": {
+                        "value": "Murjan29",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "title": {
+                        "value": "No Commission | Bills Included | Spacious 2BD on 29 floor of Murjan 1",
+                        "matchLevel": "none"
+                    }
+                }
+            },
+            {
+                "id": 3231461,
+                "ownerID": 841590,
+                "userExternalID": "841590",
+                "sourceID": 1,
+                "state": "active",
+                "geologic": [],
+                "geography": {
+                    "lat": 25.081455,
+                    "lng": 55.139855
+                },
+                "price": 11600,
+                "product": "superhot",
+                "productLabel": "default",
+                "productScore": 0,
+                "rentFrequency": "monthly",
+                "permitNumber": "JUM-MUR-EWJH0",
+                "title": "No Commission | Bills Included | Spacious 2BD on 29 floor of Murjan 1",
+                "title_l1": "شقة في مرجان 1 مرجان جميرا بيتش ريزيدنس 2 غرف 11600 درهم - 4729975",
+                "externalID": "4729975",
+                "slug": "no-commission-bills-included-spacious-2bd-on-29-floor-of-murjan-1-4729975",
+                "slug_l1": "no-commission-bills-included-spacious-2bd-on-29-floor-of-murjan-1-4729975",
+                "location": [
+                    {
+                        "id": 1,
+                        "level": 0,
+                        "externalID": "5001",
+                        "name": "UAE",
+                        "name_l1": "الإمارات",
+                        "slug": "/uae",
+                        "slug_l1": "/uae"
+                    },
+                    {
+                        "id": 2,
+                        "level": 1,
+                        "externalID": "5002",
+                        "name": "Dubai",
+                        "name_l1": "دبي",
+                        "slug": "/dubai",
+                        "slug_l1": "/dubai"
+                    },
+                    {
+                        "id": 87,
+                        "level": 2,
+                        "externalID": "5549",
+                        "name": "Jumeirah Beach Residence (JBR)",
+                        "name_l1": "جميرا بيتش ريزيدنس",
+                        "slug": "/dubai/jumeirah-beach-residence-jbr",
+                        "slug_l1": "/dubai/jumeirah-beach-residence-jbr"
+                    },
+                    {
+                        "id": 4085,
+                        "level": 3,
+                        "externalID": "8437",
+                        "name": "Murjan",
+                        "name_l1": "مرجان",
+                        "slug": "/dubai/jumeirah-beach-residence-jbr/murjan",
+                        "slug_l1": "/dubai/jumeirah-beach-residence-jbr/murjan"
+                    },
+                    {
+                        "id": 4086,
+                        "level": 4,
+                        "externalID": "5583",
+                        "name": "Murjan 1",
+                        "name_l1": "مرجان 1",
+                        "slug": "/dubai/jumeirah-beach-residence-jbr/murjan/murjan-1",
+                        "slug_l1": "/dubai/jumeirah-beach-residence-jbr/murjan/murjan-1"
+                    }
+                ],
+                "category": [
+                    {
+                        "id": 1,
+                        "level": 0,
+                        "externalID": "1",
+                        "name": "Residential",
+                        "name_l1": "سكني",
+                        "slug": "residential",
+                        "slug_l1": "residential",
+                        "nameSingular": "Residential",
+                        "nameSingular_l1": "سكني"
+                    },
+                    {
+                        "id": 2,
+                        "level": 1,
+                        "externalID": "4",
+                        "name": "Apartments",
+                        "name_l1": "شقق",
+                        "slug": "apartments",
+                        "slug_l1": "apartments",
+                        "nameSingular": "Apartment",
+                        "nameSingular_l1": "شقة"
+                    }
+                ],
+                "createdAt": 1597480835,
+                "updatedAt": 1654929145,
+                "reactivatedAt": 1652080568.909766,
+                "rooms": 2,
+                "baths": 2,
+                "area": 134.709408,
+                "score": 100,
+                "score_l1": 62,
+                "coverPhoto": {
+                    "id": 196665891,
+                    "externalID": "99656781",
+                    "title": "NULL",
+                    "orderIndex": 0,
+                    "nimaScore": 9.762245797342985,
+                    "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/196665891/eb504436794748e88b6cf565f62b49b6",
+                    "main": true
+                },
+                "photoCount": 49,
+                "videoCount": 0,
+                "panoramaCount": 0,
+                "phoneNumber": {
+                    "mobile": "+971527219778",
+                    "phone": "+971529717219778",
+                    "whatsapp": "971527219778",
+                    "proxyMobile": "+971588038537",
+                    "phoneNumbers": [
+                        "+971529717219778"
+                    ],
+                    "mobileNumbers": [
+                        "+971527219778"
+                    ]
+                },
+                "contactName": "Joan Pascua",
+                "agency": {
+                    "id": 29563293,
+                    "objectID": 29563293,
+                    "name": "Apricus Holiday Homes",
+                    "name_l1": "أبريكوس هوليداي هومز",
+                    "externalID": "9460",
+                    "product": "premium",
+                    "productScore": 2,
+                    "licences": [
+                        {
+                            "number": "748161",
+                            "authority": "DED"
+                        }
+                    ],
+                    "logo": {
+                        "id": 90721225,
+                        "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/90721225/afa38f25435d4ad5be91722b29a7c5e4"
+                    },
+                    "slug": "apricus-holiday-homes-9460",
+                    "slug_l1": "apricus-holiday-homes-9460",
+                    "tier": 4,
+                    "roles": [],
+                    "active": true,
+                    "createdAt": "2020-04-22T12:00:45.750514+00:00",
+                    "commercialNumber": "NULL"
+                },
+                "hash": "0eca67f",
+                "keywords": [
+                    "bills included",
+                    "spacious",
+                    "floor",
+                    "parking",
+                    "furnished",
+                    "kitchen"
+                ],
+                "isVerified": false,
+                "verification": {
+                    "updatedAt": 1597643316.904867,
+                    "eligible": true,
+                    "status": "unverified",
+                    "verifiedAt": "NULL"
+                },
+                "verifiedScore": 1,
+                "completionStatus": "completed",
+                "randBoostScore": 571,
+                "randBoostScore_l1": 571,
+                "floorPlanID": "NULL",
+                "furnishingStatus": "furnished",
+                "extraFields": {},
+                "type": "property",
+                "cityLevelScore": 1,
+                "indyScore": 571,
+                "indyScore_l1": 571,
+                "hasMatchingFloorPlans": false,
+                "photoIDs": [
+                    196665891,
+                    196665894,
+                    196665897,
+                    196665900,
+                    196665903,
+                    196665906,
+                    196665909,
+                    196665912,
+                    196665915,
+                    196665918,
+                    196665921,
+                    196665924,
+                    196665927,
+                    196665930
+                ],
+                "hidePrice": false,
+                "objectID": "1942863",
+                "referenceNumber": {
+                    "_highlightResult": {
+                        "value": "Murjan29",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "title": {
+                        "value": "No Commission | Bills Included | Spacious 2BD on 29 floor of Murjan 1",
+                        "matchLevel": "none"
+                    }
+                }
+            },
+            {
+                "id": 2336471,
+                "ownerID": 841590,
+                "userExternalID": "841590",
+                "sourceID": 1,
+                "state": "active",
+                "geologic": [],
+                "geography": {
+                    "lat": 25.081455,
+                    "lng": 55.139855
+                },
+                "price": 11600,
+                "product": "superhot",
+                "productLabel": "default",
+                "productScore": 0,
+                "rentFrequency": "monthly",
+                "permitNumber": "JUM-MUR-EWJH0",
+                "title": "No Commission | Bills Included | Spacious 2BD on 29 floor of Murjan 1",
+                "title_l1": "شقة في مرجان 1 مرجان جميرا بيتش ريزيدنس 2 غرف 11600 درهم - 4729975",
+                "externalID": "4729975",
+                "slug": "no-commission-bills-included-spacious-2bd-on-29-floor-of-murjan-1-4729975",
+                "slug_l1": "no-commission-bills-included-spacious-2bd-on-29-floor-of-murjan-1-4729975",
+                "location": [
+                    {
+                        "id": 1,
+                        "level": 0,
+                        "externalID": "5001",
+                        "name": "UAE",
+                        "name_l1": "الإمارات",
+                        "slug": "/uae",
+                        "slug_l1": "/uae"
+                    },
+                    {
+                        "id": 2,
+                        "level": 1,
+                        "externalID": "5002",
+                        "name": "Dubai",
+                        "name_l1": "دبي",
+                        "slug": "/dubai",
+                        "slug_l1": "/dubai"
+                    },
+                    {
+                        "id": 87,
+                        "level": 2,
+                        "externalID": "5549",
+                        "name": "Jumeirah Beach Residence (JBR)",
+                        "name_l1": "جميرا بيتش ريزيدنس",
+                        "slug": "/dubai/jumeirah-beach-residence-jbr",
+                        "slug_l1": "/dubai/jumeirah-beach-residence-jbr"
+                    },
+                    {
+                        "id": 4085,
+                        "level": 3,
+                        "externalID": "8437",
+                        "name": "Murjan",
+                        "name_l1": "مرجان",
+                        "slug": "/dubai/jumeirah-beach-residence-jbr/murjan",
+                        "slug_l1": "/dubai/jumeirah-beach-residence-jbr/murjan"
+                    },
+                    {
+                        "id": 4086,
+                        "level": 4,
+                        "externalID": "5583",
+                        "name": "Murjan 1",
+                        "name_l1": "مرجان 1",
+                        "slug": "/dubai/jumeirah-beach-residence-jbr/murjan/murjan-1",
+                        "slug_l1": "/dubai/jumeirah-beach-residence-jbr/murjan/murjan-1"
+                    }
+                ],
+                "category": [
+                    {
+                        "id": 1,
+                        "level": 0,
+                        "externalID": "1",
+                        "name": "Residential",
+                        "name_l1": "سكني",
+                        "slug": "residential",
+                        "slug_l1": "residential",
+                        "nameSingular": "Residential",
+                        "nameSingular_l1": "سكني"
+                    },
+                    {
+                        "id": 2,
+                        "level": 1,
+                        "externalID": "4",
+                        "name": "Apartments",
+                        "name_l1": "شقق",
+                        "slug": "apartments",
+                        "slug_l1": "apartments",
+                        "nameSingular": "Apartment",
+                        "nameSingular_l1": "شقة"
+                    }
+                ],
+                "createdAt": 1597480835,
+                "updatedAt": 1654929145,
+                "reactivatedAt": 1652080568.909766,
+                "rooms": 2,
+                "baths": 2,
+                "area": 134.709408,
+                "score": 100,
+                "score_l1": 62,
+                "coverPhoto": {
+                    "id": 196665891,
+                    "externalID": "99656781",
+                    "title": "NULL",
+                    "orderIndex": 0,
+                    "nimaScore": 9.762245797342985,
+                    "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/196665891/eb504436794748e88b6cf565f62b49b6",
+                    "main": true
+                },
+                "photoCount": 49,
+                "videoCount": 0,
+                "panoramaCount": 0,
+                "phoneNumber": {
+                    "mobile": "+971527219778",
+                    "phone": "+971529717219778",
+                    "whatsapp": "971527219778",
+                    "proxyMobile": "+971588038537",
+                    "phoneNumbers": [
+                        "+971529717219778"
+                    ],
+                    "mobileNumbers": [
+                        "+971527219778"
+                    ]
+                },
+                "contactName": "Joan Pascua",
+                "agency": {
+                    "id": 29563293,
+                    "objectID": 29563293,
+                    "name": "Apricus Holiday Homes",
+                    "name_l1": "أبريكوس هوليداي هومز",
+                    "externalID": "9460",
+                    "product": "premium",
+                    "productScore": 2,
+                    "licences": [
+                        {
+                            "number": "748161",
+                            "authority": "DED"
+                        }
+                    ],
+                    "logo": {
+                        "id": 90721225,
+                        "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/90721225/afa38f25435d4ad5be91722b29a7c5e4"
+                    },
+                    "slug": "apricus-holiday-homes-9460",
+                    "slug_l1": "apricus-holiday-homes-9460",
+                    "tier": 4,
+                    "roles": [],
+                    "active": true,
+                    "createdAt": "2020-04-22T12:00:45.750514+00:00",
+                    "commercialNumber": "NULL"
+                },
+                "hash": "0eca67f",
+                "keywords": [
+                    "bills included",
+                    "spacious",
+                    "floor",
+                    "parking",
+                    "furnished",
+                    "kitchen"
+                ],
+                "isVerified": false,
+                "verification": {
+                    "updatedAt": 1597643316.904867,
+                    "eligible": true,
+                    "status": "unverified",
+                    "verifiedAt": "NULL"
+                },
+                "verifiedScore": 1,
+                "completionStatus": "completed",
+                "randBoostScore": 571,
+                "randBoostScore_l1": 571,
+                "floorPlanID": "NULL",
+                "furnishingStatus": "furnished",
+                "extraFields": {},
+                "type": "property",
+                "cityLevelScore": 1,
+                "indyScore": 571,
+                "indyScore_l1": 571,
+                "hasMatchingFloorPlans": false,
+                "photoIDs": [
+                    196665891,
+                    196665894,
+                    196665897,
+                    196665900,
+                    196665903,
+                    196665906,
+                    196665909,
+                    196665912,
+                    196665915,
+                    196665918,
+                    196665921,
+                    196665924,
+                    196665927,
+                    196665930
+                ],
+                "hidePrice": false,
+                "objectID": "1942863",
+                "referenceNumber": {
+                    "_highlightResult": {
+                        "value": "Murjan29",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "title": {
+                        "value": "No Commission | Bills Included | Spacious 2BD on 29 floor of Murjan 1",
+                        "matchLevel": "none"
+                    }
+                }
+            },
+            {
+                "id": 1782574,
+                "ownerID": 841590,
+                "userExternalID": "841590",
+                "sourceID": 1,
+                "state": "active",
+                "geologic": [],
+                "geography": {
+                    "lat": 25.081455,
+                    "lng": 55.139855
+                },
+                "price": 11600,
+                "product": "superhot",
+                "productLabel": "default",
+                "productScore": 0,
+                "rentFrequency": "monthly",
+                "permitNumber": "JUM-MUR-EWJH0",
+                "title": "No Commission | Bills Included | Spacious 2BD on 29 floor of Murjan 1",
+                "title_l1": "شقة في مرجان 1 مرجان جميرا بيتش ريزيدنس 2 غرف 11600 درهم - 4729975",
+                "externalID": "4729975",
+                "slug": "no-commission-bills-included-spacious-2bd-on-29-floor-of-murjan-1-4729975",
+                "slug_l1": "no-commission-bills-included-spacious-2bd-on-29-floor-of-murjan-1-4729975",
+                "location": [
+                    {
+                        "id": 1,
+                        "level": 0,
+                        "externalID": "5001",
+                        "name": "UAE",
+                        "name_l1": "الإمارات",
+                        "slug": "/uae",
+                        "slug_l1": "/uae"
+                    },
+                    {
+                        "id": 2,
+                        "level": 1,
+                        "externalID": "5002",
+                        "name": "Dubai",
+                        "name_l1": "دبي",
+                        "slug": "/dubai",
+                        "slug_l1": "/dubai"
+                    },
+                    {
+                        "id": 87,
+                        "level": 2,
+                        "externalID": "5549",
+                        "name": "Jumeirah Beach Residence (JBR)",
+                        "name_l1": "جميرا بيتش ريزيدنس",
+                        "slug": "/dubai/jumeirah-beach-residence-jbr",
+                        "slug_l1": "/dubai/jumeirah-beach-residence-jbr"
+                    },
+                    {
+                        "id": 4085,
+                        "level": 3,
+                        "externalID": "8437",
+                        "name": "Murjan",
+                        "name_l1": "مرجان",
+                        "slug": "/dubai/jumeirah-beach-residence-jbr/murjan",
+                        "slug_l1": "/dubai/jumeirah-beach-residence-jbr/murjan"
+                    },
+                    {
+                        "id": 4086,
+                        "level": 4,
+                        "externalID": "5583",
+                        "name": "Murjan 1",
+                        "name_l1": "مرجان 1",
+                        "slug": "/dubai/jumeirah-beach-residence-jbr/murjan/murjan-1",
+                        "slug_l1": "/dubai/jumeirah-beach-residence-jbr/murjan/murjan-1"
+                    }
+                ],
+                "category": [
+                    {
+                        "id": 1,
+                        "level": 0,
+                        "externalID": "1",
+                        "name": "Residential",
+                        "name_l1": "سكني",
+                        "slug": "residential",
+                        "slug_l1": "residential",
+                        "nameSingular": "Residential",
+                        "nameSingular_l1": "سكني"
+                    },
+                    {
+                        "id": 2,
+                        "level": 1,
+                        "externalID": "4",
+                        "name": "Apartments",
+                        "name_l1": "شقق",
+                        "slug": "apartments",
+                        "slug_l1": "apartments",
+                        "nameSingular": "Apartment",
+                        "nameSingular_l1": "شقة"
+                    }
+                ],
+                "createdAt": 1597480835,
+                "updatedAt": 1654929145,
+                "reactivatedAt": 1652080568.909766,
+                "rooms": 2,
+                "baths": 2,
+                "area": 134.709408,
+                "score": 100,
+                "score_l1": 62,
+                "coverPhoto": {
+                    "id": 196665891,
+                    "externalID": "99656781",
+                    "title": "NULL",
+                    "orderIndex": 0,
+                    "nimaScore": 9.762245797342985,
+                    "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/196665891/eb504436794748e88b6cf565f62b49b6",
+                    "main": true
+                },
+                "photoCount": 49,
+                "videoCount": 0,
+                "panoramaCount": 0,
+                "phoneNumber": {
+                    "mobile": "+971527219778",
+                    "phone": "+971529717219778",
+                    "whatsapp": "971527219778",
+                    "proxyMobile": "+971588038537",
+                    "phoneNumbers": [
+                        "+971529717219778"
+                    ],
+                    "mobileNumbers": [
+                        "+971527219778"
+                    ]
+                },
+                "contactName": "Joan Pascua",
+                "agency": {
+                    "id": 29563293,
+                    "objectID": 29563293,
+                    "name": "Apricus Holiday Homes",
+                    "name_l1": "أبريكوس هوليداي هومز",
+                    "externalID": "9460",
+                    "product": "premium",
+                    "productScore": 2,
+                    "licences": [
+                        {
+                            "number": "748161",
+                            "authority": "DED"
+                        }
+                    ],
+                    "logo": {
+                        "id": 90721225,
+                        "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/90721225/afa38f25435d4ad5be91722b29a7c5e4"
+                    },
+                    "slug": "apricus-holiday-homes-9460",
+                    "slug_l1": "apricus-holiday-homes-9460",
+                    "tier": 4,
+                    "roles": [],
+                    "active": true,
+                    "createdAt": "2020-04-22T12:00:45.750514+00:00",
+                    "commercialNumber": "NULL"
+                },
+                "hash": "0eca67f",
+                "keywords": [
+                    "bills included",
+                    "spacious",
+                    "floor",
+                    "parking",
+                    "furnished",
+                    "kitchen"
+                ],
+                "isVerified": false,
+                "verification": {
+                    "updatedAt": 1597643316.904867,
+                    "eligible": true,
+                    "status": "unverified",
+                    "verifiedAt": "NULL"
+                },
+                "verifiedScore": 1,
+                "completionStatus": "completed",
+                "randBoostScore": 571,
+                "randBoostScore_l1": 571,
+                "floorPlanID": "NULL",
+                "furnishingStatus": "furnished",
+                "extraFields": {},
+                "type": "property",
+                "cityLevelScore": 1,
+                "indyScore": 571,
+                "indyScore_l1": 571,
+                "hasMatchingFloorPlans": false,
+                "photoIDs": [
+                    196665891,
+                    196665894,
+                    196665897,
+                    196665900,
+                    196665903,
+                    196665906,
+                    196665909,
+                    196665912,
+                    196665915,
+                    196665918,
+                    196665921,
+                    196665924,
+                    196665927,
+                    196665930
+                ],
+                "hidePrice": false,
+                "objectID": "1942863",
+                "referenceNumber": {
+                    "_highlightResult": {
+                        "value": "Murjan29",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "title": {
+                        "value": "No Commission | Bills Included | Spacious 2BD on 29 floor of Murjan 1",
+                        "matchLevel": "none"
+                    }
+                }
+            },
+            {
+                "id": 1510403,
+                "ownerID": 841590,
+                "userExternalID": "841590",
+                "sourceID": 1,
+                "state": "active",
+                "geologic": [],
+                "geography": {
+                    "lat": 25.081455,
+                    "lng": 55.139855
+                },
+                "price": 11600,
+                "product": "superhot",
+                "productLabel": "default",
+                "productScore": 0,
+                "rentFrequency": "monthly",
+                "permitNumber": "JUM-MUR-EWJH0",
+                "title": "No Commission | Bills Included | Spacious 2BD on 29 floor of Murjan 1",
+                "title_l1": "شقة في مرجان 1 مرجان جميرا بيتش ريزيدنس 2 غرف 11600 درهم - 4729975",
+                "externalID": "4729975",
+                "slug": "no-commission-bills-included-spacious-2bd-on-29-floor-of-murjan-1-4729975",
+                "slug_l1": "no-commission-bills-included-spacious-2bd-on-29-floor-of-murjan-1-4729975",
+                "location": [
+                    {
+                        "id": 1,
+                        "level": 0,
+                        "externalID": "5001",
+                        "name": "UAE",
+                        "name_l1": "الإمارات",
+                        "slug": "/uae",
+                        "slug_l1": "/uae"
+                    },
+                    {
+                        "id": 2,
+                        "level": 1,
+                        "externalID": "5002",
+                        "name": "Dubai",
+                        "name_l1": "دبي",
+                        "slug": "/dubai",
+                        "slug_l1": "/dubai"
+                    },
+                    {
+                        "id": 87,
+                        "level": 2,
+                        "externalID": "5549",
+                        "name": "Jumeirah Beach Residence (JBR)",
+                        "name_l1": "جميرا بيتش ريزيدنس",
+                        "slug": "/dubai/jumeirah-beach-residence-jbr",
+                        "slug_l1": "/dubai/jumeirah-beach-residence-jbr"
+                    },
+                    {
+                        "id": 4085,
+                        "level": 3,
+                        "externalID": "8437",
+                        "name": "Murjan",
+                        "name_l1": "مرجان",
+                        "slug": "/dubai/jumeirah-beach-residence-jbr/murjan",
+                        "slug_l1": "/dubai/jumeirah-beach-residence-jbr/murjan"
+                    },
+                    {
+                        "id": 4086,
+                        "level": 4,
+                        "externalID": "5583",
+                        "name": "Murjan 1",
+                        "name_l1": "مرجان 1",
+                        "slug": "/dubai/jumeirah-beach-residence-jbr/murjan/murjan-1",
+                        "slug_l1": "/dubai/jumeirah-beach-residence-jbr/murjan/murjan-1"
+                    }
+                ],
+                "category": [
+                    {
+                        "id": 1,
+                        "level": 0,
+                        "externalID": "1",
+                        "name": "Residential",
+                        "name_l1": "سكني",
+                        "slug": "residential",
+                        "slug_l1": "residential",
+                        "nameSingular": "Residential",
+                        "nameSingular_l1": "سكني"
+                    },
+                    {
+                        "id": 2,
+                        "level": 1,
+                        "externalID": "4",
+                        "name": "Apartments",
+                        "name_l1": "شقق",
+                        "slug": "apartments",
+                        "slug_l1": "apartments",
+                        "nameSingular": "Apartment",
+                        "nameSingular_l1": "شقة"
+                    }
+                ],
+                "createdAt": 1597480835,
+                "updatedAt": 1654929145,
+                "reactivatedAt": 1652080568.909766,
+                "rooms": 2,
+                "baths": 2,
+                "area": 134.709408,
+                "score": 100,
+                "score_l1": 62,
+                "coverPhoto": {
+                    "id": 196665891,
+                    "externalID": "99656781",
+                    "title": "NULL",
+                    "orderIndex": 0,
+                    "nimaScore": 9.762245797342985,
+                    "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/196665891/eb504436794748e88b6cf565f62b49b6",
+                    "main": true
+                },
+                "photoCount": 49,
+                "videoCount": 0,
+                "panoramaCount": 0,
+                "phoneNumber": {
+                    "mobile": "+971527219778",
+                    "phone": "+971529717219778",
+                    "whatsapp": "971527219778",
+                    "proxyMobile": "+971588038537",
+                    "phoneNumbers": [
+                        "+971529717219778"
+                    ],
+                    "mobileNumbers": [
+                        "+971527219778"
+                    ]
+                },
+                "contactName": "Joan Pascua",
+                "agency": {
+                    "id": 29563293,
+                    "objectID": 29563293,
+                    "name": "Apricus Holiday Homes",
+                    "name_l1": "أبريكوس هوليداي هومز",
+                    "externalID": "9460",
+                    "product": "premium",
+                    "productScore": 2,
+                    "licences": [
+                        {
+                            "number": "748161",
+                            "authority": "DED"
+                        }
+                    ],
+                    "logo": {
+                        "id": 90721225,
+                        "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/90721225/afa38f25435d4ad5be91722b29a7c5e4"
+                    },
+                    "slug": "apricus-holiday-homes-9460",
+                    "slug_l1": "apricus-holiday-homes-9460",
+                    "tier": 4,
+                    "roles": [],
+                    "active": true,
+                    "createdAt": "2020-04-22T12:00:45.750514+00:00",
+                    "commercialNumber": "NULL"
+                },
+                "hash": "0eca67f",
+                "keywords": [
+                    "bills included",
+                    "spacious",
+                    "floor",
+                    "parking",
+                    "furnished",
+                    "kitchen"
+                ],
+                "isVerified": false,
+                "verification": {
+                    "updatedAt": 1597643316.904867,
+                    "eligible": true,
+                    "status": "unverified",
+                    "verifiedAt": "NULL"
+                },
+                "verifiedScore": 1,
+                "completionStatus": "completed",
+                "randBoostScore": 571,
+                "randBoostScore_l1": 571,
+                "floorPlanID": "NULL",
+                "furnishingStatus": "furnished",
+                "extraFields": {},
+                "type": "property",
+                "cityLevelScore": 1,
+                "indyScore": 571,
+                "indyScore_l1": 571,
+                "hasMatchingFloorPlans": false,
+                "photoIDs": [
+                    196665891,
+                    196665894,
+                    196665897,
+                    196665900,
+                    196665903,
+                    196665906,
+                    196665909,
+                    196665912,
+                    196665915,
+                    196665918,
+                    196665921,
+                    196665924,
+                    196665927,
+                    196665930
+                ],
+                "hidePrice": false,
+                "objectID": "1942863",
+                "referenceNumber": {
+                    "_highlightResult": {
+                        "value": "Murjan29",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "title": {
+                        "value": "No Commission | Bills Included | Spacious 2BD on 29 floor of Murjan 1",
+                        "matchLevel": "none"
+                    }
+                }
+            } 
+        ],
+        "nbHits": 6214,
+        "page": 3,
+        "nbPages": 249,
+        "hitsPerPage": 25,
+        "exhaustiveNbHits": true,
+        "query": "",
+        "params": "filters=purpose:'for-rent' AND rentFrequency:'monthly' AND ( location.externalID:'5002' OR location.externalID:'6020' ) &hitsPerPage=25&page=3",
+        "processingTimeMS": 9
+    }
+}

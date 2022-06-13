@@ -1,0 +1,172 @@
+.hero{
+    position: relative;
+    margin-top: 150px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+    z-index: 2;
+}
+.hero .h1{
+    font-size: 4rem;
+    font-weight: 700;
+    color: white;
+    z-index: 9;
+    padding-bottom: 20px;
+}
+
+.hero::before{
+    content: '';
+    position: absolute;
+    background: url('https://futurehome.al/uploads/futurehome.al/summer/1653480423-leonardo-149274832-bjveb-villa-0235-hor-clsc-o-152353.jpg') no-repeat;
+    background-size: cover;
+    left: 0;
+    right: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-attachment: fixed;
+    z-index: -1;
+    filter: brightness(.8);
+}
+
+.sales-rent{
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}
+.sales-rent span{
+    background-color: white;
+    padding-inline: 1rem;
+    padding-block: .5rem;
+    cursor: pointer;
+}
+.sales-rent span:hover{
+    background-color: var(--orange-cl);
+    transition: 500ms ease;
+}
+.search-property{
+    /* width: 80vw; */
+    background-color: white;
+    height: 15vh;
+    display: flex;
+    align-items: center;
+}
+
+.search-property form{
+    display: flex;
+    gap: 0px;
+    align-items: center;
+    width: 100%;
+}
+.search-property form .border-right{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 60px;
+    background-color: white;
+    padding-inline: 2rem;
+    position: relative;
+}
+.search-property form .border-right::after{
+    position: absolute;
+    content: '';
+    right: 1px;
+    width: 1px;
+    height: 40px;
+    background-color: #ddd;
+}
+.search-property form button{
+    background-color: var(--orange-cl);
+    outline: none;
+    border: transparent;
+    height: 11vh;
+    width: 200px;
+    box-shadow: 0 5px 24px rgb(31 37 59 / 15%);
+    border-radius: .4rem;
+    margin-right: 1rem;
+    color: white;
+    font-size: 1.5rem;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.search-property form button:hover{
+    color: var(--orange-cl);
+    background-color: white;
+    border: 3px var(--orange-cl) solid;
+}
+
+.search-property .align-center{
+    padding-inline: 1.2rem;
+}
+
+.search-property form div input{
+    border: none;
+    outline: none;
+    background-color: transparent;
+    width: 100%;
+}
+.opacity{
+    opacity: .8;
+}
+
+.search-property form div div{
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 3px;
+}
+
+.angle-up-down{
+    position: relative;
+}
+.angle-up-down .angle-click{
+    display: flex;
+    justify-content: space-between;
+    gap: 100px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.houses-search-bar{
+    position: absolute;
+    bottom: 100%;
+    left: 0;
+    z-index: 9999;
+    background-color: white;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    height: max-content;
+}
+.houses-search-bar input{
+    width: 10px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    padding-left: 1.2rem;
+}
+
+.houses-search-bar input::placeholder{
+    padding-left: 1.2rem;
+}
+.results-houses{
+    display: flex;
+    flex-direction: column;
+    max-height: 200px;
+    overflow-y: scroll;
+    width: 100%;
+    align-items: flex-start;
+    justify-content: start;
+}
+.results-houses span{
+    width: 100%;
+    padding: .5rem;
+    opacity: .8;
+}
+.results-houses span:hover{
+    background-color: var(--blue-cl);
+}
